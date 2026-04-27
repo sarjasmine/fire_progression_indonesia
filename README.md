@@ -11,8 +11,8 @@ The steps in order:
   6) 06_add_climate.py
   7) 07_add_lulc_ros.py
 
-The outpus of these codes are fire progression in point clusters and grids, available at: [Zenodo link].
+The outpus of these codes are fire progression in point clusters and grids shapefiles, available at: [Zenodo link].
 
-The detailed method is available at [paper link].
+The detailed method is available at: [paper link].
 
 If you find any addional bugs and questions please send us a note!
