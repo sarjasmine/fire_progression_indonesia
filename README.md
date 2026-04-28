@@ -15,4 +15,7 @@ The outpus of these codes are fire progression in point clusters and grids shape
 
 The detailed method is available at: [paper link].
 
+
+
+Contributors: Sarah Riadi & Manzhu Yu (Pennsylvania State University)
 If you find any addional bugs and questions please send us a note!
