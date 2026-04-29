@@ -1,5 +1,5 @@
 """
-05_add_lulc_ros.py
+07_add_lulc_ros.py
 ==================
 Adds MapBiomas LULC attributes and grid-level rate-of-spread (ROS) to fire grids.
 
