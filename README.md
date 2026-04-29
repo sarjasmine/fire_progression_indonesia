@@ -13,29 +13,29 @@ The steps in order:
 
 Structure folders:
 
-└── fire_progression_data
-    ├── 01_create_fire_clusters.py
-    ├── 02_add_fire_point_attributes.py   
-    ├── 03_create_fire_hull.py   
-    ├── 04_create_grids.py   
-    ├── 05_add_ndvi_evi_dem.py
-    ├── 06_add_climate.py
-    ├── 07_add_lulc_ros.py
-└── preprocessing_data
-    ├── 00a_export_burned_area_docs.py
-    ├── 00b_preprocess_lulc.py
-    ├── 00c_example_fire_visualization.ipynb
-└── fire_sample_polygon  
-    └── fire_2015_id_16860.cpg
-    └── fire_2015_id_16860.dbf
-    └── fire_2015_id_16860.prj
-    └── fire_2015_id_16860.shp
-    └── fire_2015_id_16860.shx
-    └── fire_2015_id_16860_grid.cpg
-    └── fire_2015_id_16860_grid.dbf
-    └── fire_2015_id_16860_grid.prj
-    └── fire_2015_id_16860_grid.shp
-    └── fire_2015_id_16860_grid.shx
+fire_progression_data/
+├── preprocessing_data/
+│   ├── 00a_export_burned_area_docs.py
+│   ├── 00b_preprocess_lulc.py
+│   ├── 00c_example_fire_visualization.ipynb
+│   └── fire_sample_polygon/
+│       ├── fire_2015_id_16860.cpg
+│       ├── fire_2015_id_16860.dbf
+│       ├── fire_2015_id_16860.prj
+│       ├── fire_2015_id_16860.shp
+│       ├── fire_2015_id_16860.shx
+│       ├── fire_2015_id_16860_grid.cpg
+│       ├── fire_2015_id_16860_grid.dbf
+│       ├── fire_2015_id_16860_grid.prj
+│       ├── fire_2015_id_16860_grid.shp
+│       └── fire_2015_id_16860_grid.shx
+├── 01_create_fire_clusters.py
+├── 02_add_fire_point_attributes.py
+├── 03_create_fire_hull.py
+├── 04_create_grids.py
+├── 05_add_ndvi_evi_dem.py
+├── 06_add_climate.py
+└── 07_add_lulc_ros.py
 
 
 Fire points shapefile: a collection of clustered active fire hotspots in one event.
