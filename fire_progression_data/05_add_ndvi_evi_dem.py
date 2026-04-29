@@ -1,14 +1,13 @@
 """
-04_add_ndvi_evi_dem.py
+05_add_ndvi_evi_dem.py
 ======================
 Adds MODIS NDVI/EVI and NASADEM elevation to fire grid shapefiles.
 
 Pipeline:
     1. Load fire grid shapefiles (output of 03_create_grids.py)
     2. Extract MODIS NDVI and EVI from nearest 16-day composite (NetCDF)
-    3. Apply MODIS scale factor (÷ 0.0001)
-    4. Merge NASADEM elevation by grid_id
-    5. Save enriched grid shapefile
+    3. Merge NASADEM elevation by grid_id
+    4. Save enriched grid shapefile
 """
 
 import os
