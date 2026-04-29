@@ -2,11 +2,6 @@
 0_preprocess_lulc.py
 ======================
 Preprocesses MapBiomas LULC data for Sumatra and Kalimantan.
-Based on:
-    0__Edit_LULC_bounds.ipynb     — clip Indonesia-wide TIFFs to province bounds
-    0__resampling_lulc.ipynb      — resample 30m LULC to 500m (MODIS-matched)
-    1__Export_LULC-v2.ipynb       — extract majority LULC per grid cell and fill NoData
-
 
 Pipeline:
     Step A — Clip Indonesia-wide MapBiomas TIFFs to province boundaries
