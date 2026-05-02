@@ -113,7 +113,7 @@ https://appeears.earthdatacloud.nasa.gov/
 The outpus of these codes are fire progression in point clusters and grids shapefiles, available at Zenodo:
 https://zenodo.org/records/19809792?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImI2ODkzMmNhLTQ4M2ItNDkwZi05YzQ5LTZiMjcyYWVmZDRkOSIsImRhdGEiOnt9LCJyYW5kb20iOiJiYmM3ZWI3YmQ4NWE1ODZhNWM0N2ZlNmIxYzJhNjk3MiJ9.D9HTqrbISYy3PcVVI9vPjJVmmTxfBgbqb645Xleij19DCpIeUUOU2-QFcaaA-YNz6alxpwoQvBbCaC5Kw0PuQg
 
-The detailed method is available at: [paper link].
+
 
 
 
