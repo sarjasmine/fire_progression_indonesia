@@ -114,7 +114,8 @@ The outpus of these codes are fire progression in point clusters and grids shape
 https://zenodo.org/records/19809792?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImI2ODkzMmNhLTQ4M2ItNDkwZi05YzQ5LTZiMjcyYWVmZDRkOSIsImRhdGEiOnt9LCJyYW5kb20iOiJiYmM3ZWI3YmQ4NWE1ODZhNWM0N2ZlNmIxYzJhNjk3MiJ9.D9HTqrbISYy3PcVVI9vPjJVmmTxfBgbqb645Xleij19DCpIeUUOU2-QFcaaA-YNz6alxpwoQvBbCaC5Kw0PuQg
 
 
-
+Citation:
+Riadi, S. J., & Yu, M. (2026). Fire progression, Sumatra & Kalimantan, Indonesia, 2001-2024 (Version Version 1) [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.19809792
 
 
 Contributors: Sarah Riadi & Manzhu Yu (Pennsylvania State University)
